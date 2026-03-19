@@ -52,3 +52,13 @@
    - Let the lasagna cool for 10-15 minutes before slicing.
    - Garnish with fresh basil leaves if desired.
    - Serve warm and enjoy!
+  
+## Dietary restrictions
+   - Suitable for:
+     - Omnivores
+     - Vegetarians
+   - Allergens:
+     - Gluten
+     - Milk
+     - Onions
+     - Garlic
