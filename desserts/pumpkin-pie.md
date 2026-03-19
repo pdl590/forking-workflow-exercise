@@ -30,6 +30,12 @@
 - Add eggs and blend
 - Add evaporated milk and blend
 
+## Dietary restrictions
+ - Suitable for: omnivores
+ - Allergens:
+   - Milk
+   - Eggs
+
 
 ## Baking
 
